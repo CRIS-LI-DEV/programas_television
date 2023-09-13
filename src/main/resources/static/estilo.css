@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+@font-face {
+	font-family: 'a';
+	src: url("f1.ttf");
+}
+
+body {
+font-family: 'a';	
+}
+
+#a{
+	
+	background: #A41414;
+	border:2px solid  #A41414;
+	text-shadow: 2px 2px 3px rgba(0,0,0,0.8);
+}
+#b{
+	
+	
+	border:2px solid  #A41414;
+}
